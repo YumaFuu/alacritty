@@ -1,6 +1,6 @@
 #!/bin/sh
-path="$HOME/.config/alacrity"
+path="$HOME/.config/alacritty"
 mkdir -p $path
-curl https://raw.githubusercontent.com/YumaFuu/alacrity/master/alacritty.yml > $path/alacrity.yml
+curl https://raw.githubusercontent.com/YumaFuu/alacritty/master/alacritty.yml > $path/alacritty.yml
 
 echo done
