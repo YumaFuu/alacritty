@@ -7,4 +7,4 @@ $ curl https://raw.githubusercontent.com/YumaFuu/alacrity/master/bin/install.sh 
 ```
 
 ## refs
-- [alacrity](https://github.com/alacrity/alacrity) <br>
+- [alacrity](https://github.com/alacritty/alacritty) <br>
